@@ -38,6 +38,7 @@ Uso
 Asegúrate de tener el entorno virtual activado.
 
 Ejecuta el script principal:
+
 python prueba_scrapping.py
 
 Estructura del proyecto:
