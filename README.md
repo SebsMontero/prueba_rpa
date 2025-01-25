@@ -51,4 +51,13 @@ prueba_rpa/
 ├── resultados_procesados/ # Carpeta para los resultados generados
 └── evidencias/            # Carpeta para almacenar evidencias
 
+## Instalación
 
+Importante hacer la configuración del correo al cuál se debe hacer el envío del correo en la siguiente línea
+
+destinatario = "ingjaviermonterot@gmail.com"
+        asunto = "Resumen de Ventas - Top 10 Productos"
+        correo = Correo(remitente, contraseña)
+        correo.enviar(destinatario, asunto, resumen, top_10_path)
+
+Esto, para garantizar el envío del correo con la información solicitada, dado que en la documentación, no se indica a qué correo se debe realizar el envío.
