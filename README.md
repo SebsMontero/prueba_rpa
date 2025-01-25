@@ -1,4 +1,4 @@
-Prueba RPA
+## Prueba RPA
 
 Este repositorio contiene el proyecto prueba_rpa, desarrollado para realizar tareas de automatización y scraping utilizando Python, de la página del DANE.
 Tiene como finalidad la descarga y extracción de información del archivo que se encuentra dentro de la página
@@ -51,7 +51,7 @@ prueba_rpa/
 ├── resultados_procesados/ # Carpeta para los resultados generados
 └── evidencias/            # Carpeta para almacenar evidencias
 
-## Instalación
+## Importante
 
 Importante hacer la configuración del correo al cuál se debe hacer el envío del correo en la siguiente línea
 
