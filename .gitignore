@@ -1,0 +1,7 @@
+prueba_rpa/evidencias/
+prueba_rpa/resultados_procesados/
+
+venv/
+.env/
+
+requirements.txt
